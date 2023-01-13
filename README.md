@@ -23,8 +23,8 @@
 
 College Student :arrow_right: Law Enforcement :arrow_right: Realtor and Escrow Agent :arrow_right: Software Developer
   
--------
 ### 📫 How to reach me:
+-------
   
   LinkedIn: www.linkedin.com/in/noah-lett
 

@@ -1,6 +1,4 @@
 <h1 align="left">Hey, I'm Noah 👋</h1>
-
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noahlett&show_icons=true&locale=en" alt="noahlett" /></p>
   
   
 

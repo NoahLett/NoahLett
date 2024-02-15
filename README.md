@@ -11,7 +11,7 @@
   ### :speech_balloon: About Me
 ------
 
-  I'm Noah, a software developer with a love for learning new things, setting tangible goals, and creating programs with the languages I know, such as JavaScript, React, Node.js, CSS, HTML5, and more. My journey to becoming a software developer is somewhat of a unique one, but I'm proud to say I absolutely love what I do. 
+  I'm Noah, a software developer with a love for learning new things, setting tangible goals, and creating programs with the languages I know, such as JavaScript, React, Next, Node.js, CSS, HTML5, and more. My journey to becoming a software developer is somewhat of a unique one, but I'm proud to say I absolutely love what I do. 
 
 College Student :arrow_right: Law Enforcement :arrow_right: Realtor and Escrow Agent :arrow_right: Software Developer
   

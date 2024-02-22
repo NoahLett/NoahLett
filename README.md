@@ -6,7 +6,7 @@
 
   :wrench: Tools: Bootstrap, PostgreSQL, Prisma, Babel, Webpack, Git, GitHub, npm, Slack
 
-  :mortar_board: Always ready to learn and open to anything!
+  :mortar_board: Always ready to learn something new!
   
   ### :speech_balloon: About Me
 ------

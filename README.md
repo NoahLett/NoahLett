@@ -4,7 +4,7 @@
 
   :books: Stack: JavaScript, React, Next.js, Tailwind CSS, CSS3, HTML5, Node.js, Express
 
-  :wrench: Tools: Bootstrap, PostgreSQL, Prisma, Babel, Webpack, Git, GitHub, npm, Slack
+  :wrench: Tools: Bootstrap, PostgreSQL, Prisma, MongoDB, NextAuth, JWT, VSCode, Babel, Webpack, Git, GitHub, npm, Slack
 
   :mortar_board: Always ready to learn something new!
   
